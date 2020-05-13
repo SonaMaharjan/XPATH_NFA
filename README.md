@@ -4,6 +4,13 @@
 
 Theory of Computation: Project
 
+# Input:
+
+The input needs to be a valid x-path expression. Each of the nodes in the path needs to be separated by space. 
+
+For eg: /toc /student /name[text()='sona'] (Note the space between the two location steps)
+
+
 ## XML Document Example:
 
 	<toc>
