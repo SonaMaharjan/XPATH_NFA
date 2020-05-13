@@ -168,8 +168,8 @@ def nfa(txt, name, phone, address):
 	return nfa
 
 txt = raw_input("Enter path expression\n")
-name = ['sona', 'rathi']
-phone = ['9849103183', '9841623722']
+name = ['sona', 'xyz']
+phone = ['9999999999', '8888888888']
 address = ['nepal', 'india']
 answer= nfa(txt, name, phone, address)
 print (answer)
