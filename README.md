@@ -6,29 +6,18 @@ Theory of Computation: Project
 
 ## XML Document Example:
 
-<toc>
-	
-	<student>
-	
-		<name> sona </name
-		
-		<phone> 9849103183 </phone
-		
-		<address> nepal </address>
-		
-	</student
-	
-	<student>
-	
-		<name> rathi </name
-		
-		<phone> 9841623722 </phone
-		
-		<address> india </address>
-		
-	</student
-	
-</toc
+	<toc>
+		<student>
+			<name> sona </name
+			<phone> 9849103183 </phone		
+			<address> nepal </address>		
+		</student	
+		<student>	
+			<name> rathi </name
+			<phone> 9841623722 </phone
+			<address> india </address>
+		</student
+	</toc
 
 ## Functionality: 
 1. To check if the text entered is in the document or not:
