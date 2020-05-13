@@ -1,4 +1,11 @@
+'''
+Input Format: 
+The input needs to be a valid x-path expression. Each of the nodes in the path needs to be separated by space. 
 
+For eg: /toc /student /name[text()='sona'] (Note the space between two location steps)
+
+Invalid expression: /toc/student/name[text()='sona'] (Invalid because incorrect input format. The nodes need to be separated by a space.]
+'''
 def nfa(txt, name, phone, address):
 	nfa = 0
 	x = txt.split(" ")
