@@ -9,12 +9,12 @@ Theory of Computation: Project
 	<toc>
 		<student>
 			<name> sona </name
-			<phone> 9849103183 </phone		
+			<phone> 9999999999 </phone		
 			<address> nepal </address>		
 		</student	
 		<student>	
-			<name> rathi </name
-			<phone> 9841623722 </phone
+			<name> xyz </name
+			<phone> 8888888888 </phone
 			<address> india </address>
 		</student
 	</toc
