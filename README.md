@@ -1,22 +1,36 @@
 # XPATH_NFA
-NFA implementation for XPath expressions 
+
+## NFA implementation for XPath expressions 
+
 Theory of Computation: Project
 
-XML Document Example:
+## XML Document Example:
+
 <toc>
+	
 	<student>
+	
 		<name> sona </name
+		
 		<phone> 9849103183 </phone
+		
 		<address> nepal </address>
+		
 	</student
+	
 	<student>
+	
 		<name> rathi </name
+		
 		<phone> 9841623722 </phone
+		
 		<address> india </address>
+		
 	</student
+	
 </toc
 
-Functionality: 
+## Functionality: 
 1. To check if the text entered is in the document or not:
 - /toc /student /name[text()='sona']
 - /toc /student /phone[text()='9849103183']
