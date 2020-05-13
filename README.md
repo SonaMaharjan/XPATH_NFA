@@ -22,7 +22,7 @@ Theory of Computation: Project
 ## Functionality: 
 1. To check if the text entered is in the document or not:
 - /toc /student /name[text()='sona']
-- /toc /student /phone[text()='9849103183']
+- /toc /student /phone[text()='9999999999']
 - /toc /student /name[address()='nepal']
 
 2. Check if the input is a valid path expression or not (/):
