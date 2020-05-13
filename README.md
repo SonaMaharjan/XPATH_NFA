@@ -4,12 +4,13 @@
 
 Theory of Computation: Project
 
-# Input:
+# Input Format:
 
 The input needs to be a valid x-path expression. Each of the nodes in the path needs to be separated by space. 
 
 For eg: /toc /student /name[text()='sona'] (Note the space between the two location steps)
 
+Invalid: /toc/student/name[text()='sona'] [Invalid because of the incorrect input format. The nodes need to be separated by space]
 
 ## XML Document Example:
 
