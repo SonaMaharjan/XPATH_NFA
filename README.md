@@ -4,6 +4,12 @@
 
 Theory of Computation: Project
 
+# Description: 
+
+The emergence of XML (Extensible Markup Language) as a data conversion language has led to a proliferation of databases that store, query and update XML data. XML is rapidly being used for the creation and parsing of documents. It allows effective sharing of data and simplify data storage. Along with popularity gained by this language, efficient querying of data i.e. retrieving data from XML documents has been an area of interest for a lot of people.
+
+As a part of my TOC project, I'm presenting an application of NFA for query search in XML Language. 
+
 # Input Format:
 
 The input needs to be a valid x-path expression. Each of the nodes in the path needs to be separated by space. 
